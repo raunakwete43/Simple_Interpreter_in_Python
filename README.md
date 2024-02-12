@@ -1,4 +1,3 @@
-```
 # Custom Language Interpreter
 
 Welcome to the Custom Language Interpreter project! This project aims to create an interpreter for a custom programming language from scratch using Python.
